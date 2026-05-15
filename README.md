@@ -28,10 +28,14 @@ Esse projeto foi criado para praticar:
 # 🤔 Como funciona:
 
 1- Digite o nome do aluno
+
 2- Digite a nota
+
 3- Clique em adicionar
+
 4- O aluno aparece na lista
 
 se a nota for: 
 -maior ou igual a 7 = ✅
+
 -menor que 7 = ❌
