@@ -2,6 +2,8 @@
 
 Um projeto simples feito com HTML, css e javascript para praticar conceitos basícos de programação e manipulação do DOM 
 
+👉 Acesse a versão online aqui:
+
 # 🚀 Funcionalidades: 
 
 - Adicionar alunos ✅
